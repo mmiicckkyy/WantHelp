@@ -1,0 +1,169 @@
+﻿@{
+    ViewBag.Title = "P.V.WantHelp";
+}
+
+@section featured {
+    <section class="featured">
+        <div class="content-wrapper">
+            <div class="maincontent_der">
+                <!--<hgroup class="title">
+                    <h1>@ViewBag.Title.</h1>
+                    <h2><mark>@ViewBag.Message</mark></h2>
+                </hgroup>
+                Te permiten acceder a una titulación oficial y convalidarlos con otros estudios 
+                reglados y acceder al mercado laboral con una titulación acreditada y reconocida. 
+                Consulta los 
+                <a href="http://asp.net/mvc" title="ASP.NET MVC Website">nuevos cursos</a>.
+                <br /><br />
+                <a href="http://asp.net/mvc" title="ASP.NET MVC Website">Mas Informacion</a>.-->
+            </div>
+        </div>
+    </section>  
+}
+<!---inicion de menu flotante--->
+<div class="menuFloat-container">
+    <span class="conectatecon">Conectate con</span>
+    <div class="cell facebook last-cell" title="Facebook">
+        <em>Facebook</em>
+    </div>
+    <div class="cell twitter" title="Twitter"><em>Twitter</em></div>
+    <!--<div class="cell phone" title="Llamar"><em>Call</em></div>-->
+    <div class="cell chat" title="Charlar"><em>Chat</em></div>
+</div>
+<!---fin de menu flotante--->
+<div id="body_content">
+    <!---inicion Importante--->
+    <div class="importante">
+        <img src="~/Image/Bandera.png" alt="Icon-note-left" width="12" height="38" style="position: absolute; left: 12px;top: -4px">
+        <img src="~/Image/Bandera.png" alt="Icon-note-right" width="12" height="38" style="position: absolute; right: 12px;top: -4px">
+        <strong>Tal vez te interese... </strong> 
+        "<strong style="color:#cd853f;">Los nuevos cursos que tenemos de nuestra plataforma virtual :) 
+         </strong>" <a class="sinsesion">Necesita iniciar sesion para ver los cursos</a>
+    </div>
+    <!---fin Importante--->
+    <!---inicio popup--->
+    <div class="linklogin" id="open"><section id="login">@Html.Partial("../Shared/_LoginPartial")</section><!--click aqui<a href="#" id="open">Open Popup</a>--></div>
+    <!--<div id="popup" style="display: none;">
+        <div class="content-popup">
+            <div class="close"><a href="#" id="close">
+                <img src="~/Image/close.png"/></a></div>
+            <div><img src="~/Image/licensed-forex-broker.png" style="display: block; float:left;"/>
+                <strong style="color:#cd853f; display: block; float:right;">Transparencia</strong>
+                <br />
+                Nuestro material de educación no sólo le proporciona información sino que le ayuda a transformarla en conocimientos y a lograr el éxito.
+                Nuestra Plataforma virtual tiene una política de total transparencia que está además en cumplimiento por entero con las regulaciones de las correspondientes autoridades financieras. (EFSA y AsiC)</div>
+        </div>
+    </div>
+    <!---fin popup--->
+    <div class="main">
+        <div class="view view-sixth">  
+             <img src="~/Image/fp-roktabstop-2.jpg" />  
+             <div class="mask">
+                 <h2>Visual Studio 2012</h2>
+                 <p>Microsoft Visual Studio 2012 es una colección de herramientas que puedes usar para crear, codificar, depurar, localizar, empaquetar e implementar una aplicación de la Tienda Windows.
+                 </p>
+                 <a href="#" class="info">Read More</a>
+             </div> 
+        </div>
+        <div class="view view-sixth">  
+             <img src="~/Image/fp-roktabstop-3.jpg" />  
+             <div class="mask">
+                 <h2>SQL Server Management Studio</h2>
+                 <p>SQL es un entorno integrado para obtener acceso a todos los componentes de SQL Server, configurarlos, administrarlos y desarrollarlos. 
+                 </p>
+                 <a href="#" class="info">Read More</a>
+             </div> 
+        </div>
+        <div class="view view-sixth">  
+             <img src="~/Image/bannera3v3.jpg" />  
+             <div class="mask">
+                 <h2>Aptana Studio 3</h2>
+                 <p>Aptana Studio es un IDE de desarrollo para aplicaciones de la web 2.0, gratuito, código libre, con soporte Ajax, PHP, Ruby on Rails, Adobe Air, iPhone, etc.
+                 </p>
+                 <a href="#" class="info">Read More</a>
+             </div> 
+        </div>
+        <div class="view view-sixth">  
+             <img src="~/Image/fp-roktabstop-5.jpg" />  
+             <div class="mask">
+                 <h2>HTML5</h2>
+                 <p>HTML5 es la quinta revisión de HTML.
+                     HTML5 incluye un conjunto de nuevos elementos y atributos principalmente originados por las formas típicas de uso de los sitios web modernos.
+                 </p>
+                 <a href="#" class="info">Read More</a>
+             </div> 
+        </div>
+        <div class="view view-sixth">  
+             <img src="~/Image/about_us/about_us_slide_1.png" />  
+             <div class="mask">
+                 <h2>HTML5</h2>
+                 <p>HTML5 es la quinta revisión de HTML.
+                     HTML5 incluye un conjunto de nuevos elementos y atributos principalmente originados por las formas típicas de uso de los sitios web modernos.
+                 </p>
+                 <a href="#" class="info">Read More</a>
+             </div> 
+        </div>
+        <div class="view view-sixth">  
+             <img src="~/Image/about_us/about_us_slide_2.png" />  
+             <div class="mask">
+                 <h2>HTML5</h2>
+                 <p>HTML5 es la quinta revisión de HTML.
+                     HTML5 incluye un conjunto de nuevos elementos y atributos principalmente originados por las formas típicas de uso de los sitios web modernos.
+                 </p>
+                 <a href="#" class="info">Read More</a>
+             </div> 
+        </div>
+        <!--<div class="view view-sixth">  
+             <img src="~/Image/about_us/about_us_slide_4.png" />  
+             <div class="mask">
+                 <h2>HTML5</h2>
+                 <p>HTML5 es la quinta revisión de HTML.
+                     HTML5 incluye un conjunto de nuevos elementos y atributos principalmente originados por las formas típicas de uso de los sitios web modernos.
+                 </p>
+                 <a href="#" class="info">Read More</a>
+             </div> 
+        </div>
+        <div class="view view-sixth">  
+             <img src="~/Image/about_us/about_us_slide_5.png" />  
+             <div class="mask">
+                 <h2>HTML5</h2>
+                 <p>HTML5 es la quinta revisión de HTML.
+                     HTML5 incluye un conjunto de nuevos elementos y atributos principalmente originados por las formas típicas de uso de los sitios web modernos.
+                 </p>
+                 <a href="#" class="info">Read More</a>
+             </div> 
+        </div>-->
+    </div>
+</div>
+<!--<div id="body_content">
+    <h3 style="color:#cd853f;">We suggest the following:</h3>
+<ol class="round">
+    <li class="one">
+        <h5>Introducción</h5>
+        ASP.NET MVC le da una manera poderosa, basada en patrones para construir sitios web 
+        dinámicos que permiten una separación clara de las preocupaciones y que le da un control 
+        total sobre el marcado de agradable, desarrollo ágil. ASP.NET MVC incluye muchas 
+        características que permiten el desarrollo rápido, TDD de usar para la creación de 
+        aplicaciones sofisticadas que utilizan los últimos estándares web.
+        <a href="http://go.microsoft.com/fwlink/?LinkId=245151"> Más información ...</a>
+    </li>
+
+    <li class="two">
+        <h5>Agregar paquetes NuGet y poner en marcha su codificación</h5>
+        NuGet hace que sea fácil de instalar y actualizar las bibliotecas y herramientas libres.
+        <a href="http://go.microsoft.com/fwlink/?LinkId=245153"> Más información ...</a>
+    </li>
+
+    <li class="three">
+        <h5>Encontrar Web Hosting</h5>
+        Usted puede encontrar fácilmente una empresa de alojamiento web que ofrece la combinación perfecta 
+        de características y precios para sus aplicaciones.
+        <a href="http://go.microsoft.com/fwlink/?LinkId=245157"> Más información ...</a>
+    </li>
+    <li class="four">
+        <h5>Agregar paquetes NuGet y poner en marcha su codificación</h5>
+        NuGet hace que sea fácil de instalar y actualizar las bibliotecas y herramientas libres.
+        <a href="http://go.microsoft.com/fwlink/?LinkId=245153"> Más información ...</a>
+    </li>
+</ol>
+</div>-->

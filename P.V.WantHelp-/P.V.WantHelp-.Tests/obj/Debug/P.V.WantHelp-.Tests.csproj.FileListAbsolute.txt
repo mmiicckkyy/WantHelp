@@ -1,0 +1,96 @@
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\P.V.WantHelp-.Tests.dll.config
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\P.V.WantHelp-.Tests.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\P.V.WantHelp-.Tests.pdb
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\P.V.WantHelp-.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\System.Web.Helpers.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\System.Web.Http.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\System.Web.Mvc.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\System.Web.Razor.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\System.Web.WebPages.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\EntityFramework.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\System.Web.Optimization.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\WebGrease.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\Antlr3.Runtime.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\P.V.WantHelp-.pdb
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\System.Web.Helpers.xml
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\System.Web.Http.xml
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\System.Web.Mvc.xml
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\System.Web.Razor.xml
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\System.Web.WebPages.xml
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\EntityFramework.xml
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\obj\Debug\P.V.WantHelp-.Tests.csprojResolveAssemblyReference.cache
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\obj\Debug\P.V.WantHelp-.Tests.dll
+D:\SeminarioGit2013\P.V.WantHelp-\P.V.WantHelp-.Tests\obj\Debug\P.V.WantHelp-.Tests.pdb
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\P.V.WantHelp-.Tests.dll.config
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\P.V.WantHelp-.Tests.dll
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\P.V.WantHelp-.Tests.pdb
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\P.V.WantHelp-.dll
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\WebGrease.dll
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\P.V.WantHelp-.pdb
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\obj\Debug\P.V.WantHelp-.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\obj\Debug\P.V.WantHelp-.Tests.dll
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\lo q trajo el pocholin\P.V.WantHelp-\P.V.WantHelp-.Tests\obj\Debug\P.V.WantHelp-.Tests.pdb
