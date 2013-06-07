@@ -255,6 +255,7 @@
     <Content Include="Image\mensj1.png" />
     <Content Include="Image\mensj2.png" />
     <Content Include="Image\otto.png" />
+    <Content Include="Image\robotHeight.png" />
     <Content Include="Image\robotica.png" />
     <Content Include="Image\robotLeft.png" />
     <Content Include="Image\tw1.png" />
